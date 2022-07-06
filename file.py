@@ -1,7 +1,1 @@
-print("hello world!!!")
-print("hello world!!!")
-print("hello world!!!")
-print("hello world!!!")
 print("hello wo!")
-print("hello wo!")
-print("hello wodsadsadsadsavsvq!")
