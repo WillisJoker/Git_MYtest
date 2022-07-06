@@ -1,5 +1,3 @@
-print("hello world!!!")
-print("hello world!!!")
-print("hello world!!!")
-print("hello world!!!")
-print("hello wo!")
+print("123");
+print("123");
+print("123");
